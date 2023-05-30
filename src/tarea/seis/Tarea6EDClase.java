@@ -1,5 +1,6 @@
 package tarea.seis;
 
+// Esta es la rama de prueba que subiremos a Github
 /**
  * Esta clase representa un programa para calcular el descuento aplicado a un producto.
  * Permite calcular el total a pagar en función del precio y la cantidad de productos.
