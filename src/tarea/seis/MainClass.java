@@ -5,8 +5,7 @@
 package tarea.seis;
 
 /**
- *
- * @author franc
+ * @author Francisco Martinez Pico - 15445035Y
  */
 public class MainClass {
          
